@@ -7,9 +7,9 @@ E-mail Address: *zwzhang@math.cuhk.edu.hk*
 Office: LSB 232, Lady Shaw Building, Chinese University of Hong Kong, Shatin, NT, Hong Kong, China.
 
 ### Education
-August 2017 - June 2021: School of Mathematics, Harbin Institute of Technology(HIT).
+August 2017 - June 2021: *BS in Mathematics and Applied Mathematics*, Harbin Institute of Technology(HIT).
 
-August 2021 - Now      : Department of Mathematics, Chinese University of Hong Kong(CUHK).
+August 2021 - Now      : *PhD in Mathematics*, Chinese University of Hong Kong(CUHK).
 
 ### Teaching
 **Teaching Assistant:**
