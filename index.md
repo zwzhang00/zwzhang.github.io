@@ -1,5 +1,5 @@
 ## 张志文(ZHANG, Zhiwen)
-I am ZHANG Zhiwen, a PhD student in Department of Mathematics, Chinese University of Hong Kong(CUHK). My supervisor is Prof. DUAN Renjun. My research interest is Partial Differential Equations, Kinetic Theories. I received my Bachelar of Science Degree in Harbin Institute of Technology(HIT, 哈尔滨工业大学) in 2021.
+I am ZHANG Zhiwen, a PhD student in Department of Mathematics, Chinese University of Hong Kong(CUHK). My supervisor is Prof. DUAN Renjun. My research interest is Partial Differential Equations, Kinetic Theory. I received my Bachelar of Science Degree in Harbin Institute of Technology(HIT, 哈尔滨工业大学) in 2021.
 
 ### Contact Information
 E-mail Address: *zwzhang@math.cuhk.edu.hk*
