@@ -27,4 +27,4 @@ August 2021 - Now      : *PhD in Mathematics*, Chinese University of Hong Kong(C
 
 **Lecturer**
 
-25 Sep 2021: *The Sphere Covering Inequality and Its Application*, Harbin Institute of Technology.
+25 Sep 2021: *The Sphere Covering Inequality and Its Application*, School of Mathematics, Harbin Institute of Technology.
