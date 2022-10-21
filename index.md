@@ -20,11 +20,15 @@ August 2021 - Now      : *PhD in Mathematics*, Chinese University of Hong Kong(C
 
 2021-2022 Term 2: University Mathematics.
 
+2022-2023 Term 1: University Mathematics.
+
+2022-2023 Term 2: University Mathmatics.
+
 ### Research
 **Participant:**
 
 2021-2022 Term 1: Seminar in Boltzmann Equation.
 
-**Lecturer**
+**Seminar Lecturer**
 
 25 Sep 2020: *The Sphere Covering Inequality and Its Applications*, School of Mathematics, Harbin Institute of Technology.
