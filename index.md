@@ -7,9 +7,9 @@ E-mail Address: *zwzhang@math.cuhk.edu.hk*
 Office: LSB 232, Lady Shaw Building, Chinese University of Hong Kong, Shatin, NT, Hong Kong, China.
 
 ### Education
-August 2017 - June 2021: *BS in Mathematics and Applied Mathematics*, Harbin Institute of Technology(HIT).
+August 2017 - June 2021: *BS in Mathematics and Applied Mathematics*, Harbin Institute of Technology (HIT).
 
-August 2021 - Now      : *PhD in Mathematics*, Chinese University of Hong Kong(CUHK).
+August 2021 - Now      : *PhD in Mathematics*, Chinese University of Hong Kong (CUHK).
 
 ### Teaching
 **Teaching Assistant:**
@@ -24,11 +24,16 @@ August 2021 - Now      : *PhD in Mathematics*, Chinese University of Hong Kong(C
 
 2022-2023 Term 2: University Mathmatics.
 
-### Research
-**Participant:**
+2023-2024 Term 1: Advanced Calculus II.
 
-2021-2022 Term 1: Seminar in Boltzmann Equation.
+2023-2024 Term 1: Mathematical Analysis I.
+
+### Research
 
 **Seminar Lecturer**
 
 25 Sep 2020: *The Sphere Covering Inequality and Its Applications*, School of Mathematics, Harbin Institute of Technology.
+
+27 Oct 2022: *Solvability of the Stokes Immersed Boundary Problem in Two Dimensions*, Department of Mathematics, Chinese University of Hong Kong.
+
+3 Feb 2023: *Classical results of Vlasov-Poisson Equation*, Department of Mathematics, Chinese University of Hong Kong.
