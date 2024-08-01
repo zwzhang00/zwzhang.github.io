@@ -30,10 +30,9 @@ August 2021 - Now      : *PhD in Mathematics*, Chinese University of Hong Kong (
 
 ### Research
 
-**Seminar Lecturer**
+**Preprint:**
+1. R. Duan and Z. Zhang, A note on Landau damping of two-species Vlasov-Poisson system. arXiv:2407.02822.
+2. Z. Zhang, Moment propagation of a Vlasov-Poisson system for ions flow in the quasi-neutral regime. arXiv:2402.02786.
 
-25 Sep 2020: *The Sphere Covering Inequality and Its Applications*, School of Mathematics, Harbin Institute of Technology.
-
-27 Oct 2022: *Solvability of the Stokes Immersed Boundary Problem in Two Dimensions*, Department of Mathematics, Chinese University of Hong Kong.
-
-3 Feb 2023: *Classical results of Vlasov-Poisson Equation*, Department of Mathematics, Chinese University of Hong Kong.
+**Invited talks in conferences and workshops**
+1. The 17th SIAM east asian section conference, 28 Jun 2024 - 01 Jul 2024, University of Macao, Macao SAR.
